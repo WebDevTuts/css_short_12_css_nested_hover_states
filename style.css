@@ -76,3 +76,4 @@ a.landmark > span em {
 
 a.landmark:hover { border-color: #9c9053; }
 
+a.landmark:hover span { background-color: #000; }
